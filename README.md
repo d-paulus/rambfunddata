@@ -4,6 +4,7 @@
 # rambfunddata
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/d-paulus/rambfunddata/master?urlpath=rstudio)
+[![Build Status](https://travis-ci.org/d-paulus/rambfunddata.svg?branch=master)](https://travis-ci.org/d-paulus/rambfunddata) [![Coverage Status](https://coveralls.io/repos/github/d-paulus/rambfunddata/badge.svg?branch=master)](https://coveralls.io/github/d-paulus/rambfunddata?branch=master)
 
 This repository contains the data and code for our paper:
 
